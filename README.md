@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen /> href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src=["https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen /> href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 <h1 align="center">Hi 👋, I'm David Abdul</h1>
 <h3 align="center">A passionate frontend/backend developer from MX</h3>
 
