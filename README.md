@@ -1,6 +1,5 @@
-<div class="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="480" height="360" frameBorder="0" class="giphy-embed"  allowFullScreen />
-</div>
+ <img align="center" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="480" height="360" frameBorder="0" class="giphy-embed"  allowFullScreen />
+
 <h1 align="center">Hi 👋, I'm David Abdul</h1>
 <h3 align="center">A passionate frontend/backend developer from MX</h3>
 
