@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://davo-portfolio.netlify.app/](https://davo-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Davo Portfolio](https://davo-portfolio.vercel.app/)
 
 
 <h3 align="left">Connect with me:</h3>
