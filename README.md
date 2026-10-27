@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Abdul</h1>
 <h3 align="center">A passionate Full Stack developer from MX</h3>
 
-- 🔭 I’m currently working at **ITJ - EXACT SCIENCES**
+- 🔭 I’m currently working at **Walmart**
 
-- 🌱 I’m currently learning **React Native, Next.js**
+- 🌱 I’m currently learning **Agentic flows**
 
 - 👨‍💻 All of my projects are available at [here!](https://davo-portfolio.vercel.app/)
 
